@@ -1,4 +1,4 @@
-# package_name
+# package_name/module1_name/file1_name.py:
 
 Description. 
 The package package_name is used to:
@@ -16,12 +16,12 @@ pip install package_name
 ## Usage
 
 ```python
-from package_name import file1_name
-file1_name.my_function()
+def hello_from_module1():
+    print("Olá do Módulo 1!")
 ```
 
 ## Author
-My_name
+Fernando_Reis
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
