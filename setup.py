@@ -1,6 +1,5 @@
 # Meu Pacote Python
 
-Um pacote de exemplo com funcionalidades básicas.
 
 ## Instalação
 ```bash
