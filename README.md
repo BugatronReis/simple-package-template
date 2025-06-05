@@ -1,4 +1,4 @@
-# package_name/module1_name/file1_name.py:
+# meu_pacote
 
 Description. 
 The package package_name is used to:
